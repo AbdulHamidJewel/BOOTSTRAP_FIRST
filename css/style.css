@@ -1,0 +1,8 @@
+ .box{
+     min-height: 200px;
+     background-color: red;
+ }
+ .box h1{
+     text-align: center;
+     padding-top: 80px;
+ }
